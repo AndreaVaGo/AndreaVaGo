@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Andrea
 
-<!--
-**AndreaVaGo/AndreaVaGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora Web Full Stack en formación
+🎓 Graduada en DAW (Desarrollo de Aplicaciones Web)
+🚀 Actualmente cursando un bootcamp de desarrollo web full stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre mí
+
+* 🎓 Formación en Desarrollo de Aplicaciones Web (DAW)
+* 💡 Apasionada por la tecnología y el desarrollo web
+* 🌱 Actualmente ampliando conocimientos en desarrollo full stack
+* 🎯 Objetivo: incorporarme al mundo profesional como desarrolladora
+
+---
+
+## 🛠️ Stack actual
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+* 🛠️ Git & GitHub
+
+---
+
+## 📫 Contacto
+
+* 💼 LinkedIn: 
+
+
+---
+
+
