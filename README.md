@@ -1,8 +1,8 @@
-# 👋 Hola, soy Andrea
+## 👋 Hola, soy Andrea
 
-💻 Desarrolladora Web Full Stack en formación
-🎓 Graduada en DAW (Desarrollo de Aplicaciones Web)
-🚀 Actualmente cursando un bootcamp de desarrollo web full stack
+* 💻 Desarrolladora Web Full Stack en formación
+* 🎓 Graduada en DAW (Desarrollo de Aplicaciones Web)
+* 🚀 Actualmente cursando un bootcamp de desarrollo web full stack
 
 ---
 
