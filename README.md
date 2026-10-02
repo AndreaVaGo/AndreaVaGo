@@ -24,7 +24,8 @@
   About Me
 </h2>
 
-<img align="right" src="assets/avatar.svg" width="190" />
+<!-- 👩‍💻 AVATAR: custom image saved in this repo at assets/avatar.svg -->
+<img align="right" src="assets/avatar.svg" width="160" />
 
 - 🎓 Graduated in **Web Application Development (DAW)**
 - 🚀 Currently in the Full Stack Bootcamp at **Factoría F5 Asturias**
