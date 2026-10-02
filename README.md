@@ -24,7 +24,7 @@
   About Me
 </h2>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="170" />
+<img align="right" src="assets/avatar.svg" width="190" />
 
 - 🎓 Graduated in **Web Application Development (DAW)**
 - 🚀 Currently in the Full Stack Bootcamp at **Factoría F5 Asturias**
