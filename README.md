@@ -1,7 +1,7 @@
 <!-- ============================================================ -->
 <!-- 🌊 HEADER BANNER                                              -->
 <!-- ============================================================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6EC7&height=220&section=header&text=Andrea%20Vallina&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20training&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:FF6EC7&height=220&section=header&text=Andrea%20Vallina%20Gonz%C3%A1lez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20training&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- ⌨️ TYPING TEXT: edit "lines=" to change the phrases (separate them with ;) -->
 <p align="center">
@@ -14,6 +14,13 @@
   <img src="https://img.shields.io/badge/Location-Oviedo,%20Spain-7F00FF?style=for-the-badge" />
 </p>
 
+<!-- 🚇 PORTFOLIO: big button to the portfolio -->
+<p align="center">
+  <a href="https://andreavago.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-andreavago.github.io-D6187E?style=for-the-badge&logo=vuedotjs&logoColor=white" height="40" />
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ============================================================ -->
@@ -24,9 +31,6 @@
   About Me
 </h2>
 
-<!-- 👩‍💻 AVATAR: custom image saved in this repo at assets/avatar.svg -->
-<img align="right" src="assets/avatar.svg" width="160" />
-
 - 🎓 Graduated in **Web Application Development (DAW)**
 - 🚀 Currently in the Full Stack Bootcamp at **Factoría F5 Asturias**
 - 💻 I work on both sides: **frontend** with Vue and TypeScript, **backend** with Java and Spring Boot
@@ -35,11 +39,10 @@
 - 🌱 Always learning something new
 - 🎯 Goal: start my professional career as a Full Stack Developer
 
-<br clear="right" />
-
 <!-- 🔭 CURRENTLY WORKING ON: update it when you start something new -->
 <h3>🔭 Currently working on</h3>
 
+- 🚇 My **portfolio**, a metro line of my journey built with Vue, Pinia, Vitest and Playwright: [andreavago.github.io](https://andreavago.github.io)
 - 🤝 Building **Acompáñame**, my final bootcamp project: a caregiver marketplace that connects families with caregivers (Spring Boot + Vue)
 - 🤖 Learning about **LLMs and local AI**: Ollama, OpenCode and open models like Gemma
 - ☁️ Learning **AWS** cloud fundamentals with AWS Skill Builder
@@ -428,6 +431,9 @@ Implementation of the Builder pattern to create houses with optional features: g
 </p>
 
 <p align="center">
+  <a href="https://andreavago.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-D6187E?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/andrea-vallina-gonzalez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
