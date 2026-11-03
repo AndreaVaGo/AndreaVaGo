@@ -40,8 +40,9 @@
 <!-- 🔭 CURRENTLY WORKING ON: update it when you start something new -->
 <h3>🔭 Currently working on</h3>
 
-- 🍽️ Finishing **Goxu**, a full stack restaurant app with my team
-- 💙 Starting my **final bootcamp project**: an app to support families caring for relatives at hospital or at home
+- 🤝 Building **Acompáñame**, my final bootcamp project: a caregiver marketplace that connects families with caregivers (Spring Boot + Vue)
+- 🤖 Learning about **LLMs and local AI**: Ollama, OpenCode and open models like Gemma
+- ☁️ Learning **AWS** cloud fundamentals with AWS Skill Builder
 
 <!-- 💪 SOFT SKILLS -->
 <h3>💪 Soft Skills</h3>
@@ -219,6 +220,29 @@ flowchart LR
 <!-- 🌐 FULL STACK & BACKEND -->
 <h3>🌐 Full Stack & Backend</h3>
 
+<details open>
+<summary>🤝 <b>Acompáñame</b>: Caregiver marketplace (final bootcamp project) 🚧</summary>
+<br />
+
+Web app that connects families with caregivers for home and hospital support. Families can search caregivers, send service requests and leave reviews.
+
+![Status](https://img.shields.io/badge/Status-In_progress-FF6EC7?style=flat-square)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+
+- 🏗️ REST API with full CRUD, DTOs, mappers and centralized exception handling
+- 🔐 Authentication with Spring Security
+- 🧪 Unit tests with JUnit 5 and Mockito, integration tests with Testcontainers
+- 📋 Planned in Jira, with ER and UML class diagrams
+
+🔗 [Frontend](https://github.com/AndreaVaGo/acompaname-frontend) · [Backend](https://github.com/AndreaVaGo/acompaname-backend)
+</details>
+
 <details>
 <summary>🍽️ <b>Goxu</b>: Restaurant app (team project)</summary>
 <br />
@@ -232,7 +256,7 @@ Full restaurant app: orders, kitchen, delivery and administration. Team of 6 dev
 
 - 👩‍💻 **My part:** Admin Dashboard, User Dashboard, Product Detail, and orders & payments backend
 
-🔗 [Frontend](https://github.com/AndreaVaGo/project-p5-digital-academy-team2-restaurant-frontend) · [Backend](https://github.com/AndreaVaGo/project-p5-digital-academy-team2-restaurant-backend)
+🔗 [Frontend](https://github.com/AndreaVaGo/goxu-frontend) · [Backend](https://github.com/AndreaVaGo/goxu-backend)
 </details>
 
 <details>
@@ -275,7 +299,7 @@ Single Page Application using the Jikan API, built in a team across two sprints 
 - 🧪 Unit tests with Vitest and e2e tests with Playwright
 - 🚀 Deployed on GitHub Pages
 
-🔗 [Repository](https://github.com/FactoriaF5-Asturias/project-p5-digital-academy-team2-the-univers-of-things)
+🔗 [Repository](https://github.com/AndreaVaGo/the-univers-of-things) · [🌐 Live demo](https://andreavago.github.io/the-univers-of-things/)
 </details>
 
 <details>
@@ -327,7 +351,7 @@ Console app to record life moments linked to emotions.
 
 - 🏗️ Layered architecture: View → Controller → Service → Repository → DAO, with DTOs and Mappers
 
-🔗 [Repository](https://github.com/AndreaVaGo/project-java-consoleapp-inside-out)
+🔗 [Repository](https://github.com/AndreaVaGo/java-console-diary-inside-out)
 </details>
 
 <details>
@@ -340,7 +364,7 @@ TDD kata in 5 iterations: damage, levels, range, factions and damageable props.
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Coverage](https://img.shields.io/badge/Coverage-90%25+-brightgreen?style=flat-square)
 
-🔗 [Repository](https://github.com/AndreaVaGo/kata-java-tdd-RPG-Combat)
+🔗 [Repository](https://github.com/AndreaVaGo/java-tdd-rpg-combat-kata)
 </details>
 
 <details>
@@ -384,19 +408,9 @@ Implementation of the Builder pattern to create houses with optional features: g
   GitHub Stats
 </h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreaVaGo&show_icons=true&theme=tokyonight&hide_border=true&title_color=E100FF&icon_color=FF6EC7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaVaGo&layout=compact&theme=tokyonight&hide_border=true&title_color=E100FF" />
-</p>
-
 <!-- 🔥 STREAK: consecutive days with contributions -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AndreaVaGo&theme=tokyonight&hide_border=true&ring=E100FF&fire=FF6EC7&currStreakLabel=E100FF" />
-</p>
-
-<!-- 🐍 SNAKE: only appears after running the snake.yml workflow. Delete this block if you don't want it -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndreaVaGo/AndreaVaGo/output/github-snake-dark.svg" width="100%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
